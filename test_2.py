@@ -93,3 +93,89 @@ sort the list, then splice out the grades that have a percentage of grades that 
 print message to user
 
 """
+
+grades = []
+
+grade = input("Enter the 1st grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 2nd grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 3rd grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 4th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 5th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 6th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 7th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 8th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 9th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 10th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 11th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 12th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 13th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 14th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 15th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 16th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 17th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 18th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 19th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 20th grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 21st grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 22nd grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 23rd grade: ")
+grades.append(float(grade))
+
+grade = input("Enter the 24th grade: ")
+grades.append(float(grade))
+
+grades.sort()
+
+grades = grades[11:]
+
+grades = sum(grades)
+
+results = grades / 12
+
+print("Average Grade {0:.11f}%".format(result))
+
+
