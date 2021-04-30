@@ -13,3 +13,83 @@ output a message to the user
 
 end
 """
+
+"""
+create list
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+sort the list, then splice out the grades that have a percentage of grades that are below the average grade.
+
+print message to user
+
+"""
